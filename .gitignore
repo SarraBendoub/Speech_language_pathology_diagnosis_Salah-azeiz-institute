@@ -1,0 +1,11 @@
+data/
+normal_man/
+normal_women/
+pathology_man/
+pathology_women/
+*.wav
+*.nsp
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
